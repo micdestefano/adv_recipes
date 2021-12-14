@@ -16,3 +16,9 @@ shurikens. This mod adds a new recipe for stone shurikens.
 
 ## flamethrower
 If you installed the flamethrower mod, you'll notice that you don't have any recipe for building a flamethrower. This mod adds a recipe for building it.
+
+# Installation instructions
+You need to place the `adv_recipes` folder under your `mods` minetest folder. You have two options:
+
+* you clone this repository directly into your mods folder.
+* you download the zip file, you uncompress it into the mods folder, and you rename the extracted directory into `adv_recipes` if needed.
